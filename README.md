@@ -1,6 +1,6 @@
 ### PostgreSQL, Greenplum 培训视频下载  
   
-下载链接： http://pan.baidu.com/s/1pKVCgHX   (如果链接失效请通知我, 谢谢)  
+下载链接： https://pan.baidu.com/s/1sgoGkl8VuydJhyG0T9aQwg   (如果链接失效请通知我, 谢谢)  
   
 ![pic](./pic/pg_china_digoal_video.jpg)  
   
